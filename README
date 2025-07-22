@@ -1,0 +1,32 @@
+# 📚 DSA-Based Library Tracker GUI (C++ & Qt)
+
+This project is a **Graphical User Interface (GUI)** based Library Management System built using **C++** and **Qt Framework**. It demonstrates practical applications of **Data Structures and Algorithms (DSA)** including Binary Search Trees, Stacks, Queues, and Hash Maps.
+
+> 🔧 Designed for desktop use with an intuitive Qt interface.
+
+---
+
+## 🚀 Features
+
+- 📘 **Add New Book** – Store books using a Binary Search Tree (BST)
+- 👥 **Borrow Book** – Issue books with a user queue if already borrowed
+- 🔄 **Return Book** – Stack-based return logic and automatic reissue to waiting users
+- 📚 **View All Books** – Display available and issued books via in-order traversal
+- 🧾 **View Borrowed Books** – See currently issued books
+- 🖥️ **Modern Qt GUI** – Built with Qt Designer and C++ backend
+
+---
+
+## 🛠️ Technologies Used
+
+| Component       | Description                      |
+|----------------|----------------------------------|
+| C++             | Core logic and data structures   |
+| Qt 6 / 5        | GUI toolkit for interactive UI   |
+| MinGW / MSVC    | Compiler (depending on your setup) |
+| CMake or qmake  | Build system                     |
+
+---
+
+## 📂 Folder Structure
+

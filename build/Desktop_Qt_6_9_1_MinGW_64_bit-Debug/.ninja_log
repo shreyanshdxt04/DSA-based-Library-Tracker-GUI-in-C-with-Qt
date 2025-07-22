@@ -1,0 +1,14 @@
+# ninja log v6
+10	897	7748813343962277	libtrackercpp_autogen/timestamp	dd754f341a1f2577
+10	897	7748813343962277	libtrackercpp_autogen/mocs_compilation.cpp	dd754f341a1f2577
+10	897	7748813343962277	C:/Users/shrey/Documents/libtrackercpp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/libtrackercpp_autogen/timestamp	dd754f341a1f2577
+10	897	7748813343962277	C:/Users/shrey/Documents/libtrackercpp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/libtrackercpp_autogen/mocs_compilation.cpp	dd754f341a1f2577
+923	3609	7748813345025256	CMakeFiles/libtrackercpp.dir/library.cpp.obj	29c7a2c16f4e7aa3
+905	4213	7748813344839742	CMakeFiles/libtrackercpp.dir/libtrackercpp_autogen/mocs_compilation.cpp.obj	c90305d409bf88b3
+911	4286	7748813344904987	CMakeFiles/libtrackercpp.dir/main.cpp.obj	82ebaae2ce42021d
+13	131	7748819199622007	libtrackercpp_autogen/timestamp	dd754f341a1f2577
+13	131	7748819199622007	libtrackercpp_autogen/mocs_compilation.cpp	dd754f341a1f2577
+13	131	7748819199622007	C:/Users/shrey/Documents/libtrackercpp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/libtrackercpp_autogen/timestamp	dd754f341a1f2577
+13	131	7748819199622007	C:/Users/shrey/Documents/libtrackercpp/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/libtrackercpp_autogen/mocs_compilation.cpp	dd754f341a1f2577
+132	2753	7748819200814734	CMakeFiles/libtrackercpp.dir/mainwindow.cpp.obj	8788f43a78ca010b
+2753	3028	7748819227023856	libtrackercpp.exe	6bde2677316fd970
